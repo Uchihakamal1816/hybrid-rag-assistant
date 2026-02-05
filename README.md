@@ -11,12 +11,12 @@ Streamlit UI.
 
 ## 🚀 Features
 
--   🔍 FAISS vector semantic search over full document corpus\
--   🧠 HuggingFace embeddings for high-quality retrieval\
--   ⚡ LLM-based semantic re-ranking (hybrid RAG)\
--   💬 Conversational memory across turns\
--   📊 Automated evaluation (grounding + faithfulness scoring)\
--   🖥 Streamlit chat interface\
+-   🔍 FAISS vector semantic search over full document corpus
+-   🧠 HuggingFace embeddings for high-quality retrieval
+-   ⚡ LLM-based semantic re-ranking (hybrid RAG)
+-   💬 Conversational memory across turns
+-   📊 Automated evaluation (grounding + faithfulness scoring)
+-   🖥 Streamlit chat interface
 -   📚 Source-aware grounded responses
 
 ------------------------------------------------------------------------
@@ -68,26 +68,33 @@ streamlit run app.py
 
 ### 💬 Interactive Chat Interface
 
--   Multi-turn memory\
--   Hybrid retrieval\
--   Source grounded answers\
+-   Multi-turn memory
+-   Hybrid retrieval
+-   Source grounded answers
 -   Automated evaluation
 
-### 📸 Add screenshots:
+### 📸 Few visuals for clear understanding:
+<head>
+    #Faiss database viewed in the form of vectors
+</head>
+<img width="971" height="677" alt="image" src="https://github.com/user-attachments/assets/50ad70bc-bfdb-40cc-b41c-af268220a0bc" />
 
-screenshots/chat_interface.png\
-screenshots/sources.png\
-screenshots/evaluation.png
+<head>
+    #Interface of demo
+</head>
+<img width="1120" height="905" alt="image" src="https://github.com/user-attachments/assets/7ee123f4-f1fe-43db-a62d-9b23c0d45078" />
 
-Embed:
-
+<head>
+    #Evaluation of the content 
+</head>
+<img width="1133" height="882" alt="image" src="https://github.com/user-attachments/assets/0a72f7d8-1ff2-41b0-a6a1-069bb154ec3f" />
 
 ------------------------------------------------------------------------
 
 ## 📊 Evaluation
 
--   Grounding Score\
--   Faithfulness Score\
+-   Grounding Score
+-   Faithfulness Score
 -   Session Averages
 
 ------------------------------------------------------------------------
@@ -100,14 +107,15 @@ HuggingFace • FAISS • LangChain • Streamlit • Python • Groq
 
 ## 🎯 Use Cases
 
--   Regulatory intelligence\
--   Compliance automation\
--   Policy analysis\
+
+-   Regulatory intelligence
+-   Compliance automation
+-   Policy analysis
 -   Enterprise knowledge assistant
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-Nannuri Sai Kamal\
+Nannuri Sai Kamal
 GitHub: https://github.com/Uchihakamal1816
